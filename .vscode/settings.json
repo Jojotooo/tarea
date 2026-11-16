@@ -1,0 +1,15 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.preview": false,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlayHints.enabled": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.selectionMode": "never",
+    "editor.unicodeHighlight.ambiguousCharacters": false
+}
